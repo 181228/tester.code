@@ -1,0 +1,16 @@
+ .navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+        color:black;
+        text-align: center
+ }
+
+ .navbar.section { 
+    display: flex;
+    flex-direction: row;
+
+ }
+    
+
+   
